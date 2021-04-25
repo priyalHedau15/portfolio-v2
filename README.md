@@ -46,6 +46,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - [Storybook](https://storybook.js.org/)
 - [Prettier](https://prettier.io/)
 - [ESLint](https://eslint.org/)
+- [Jest](https://jestjs.io/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 
 ## Learn More
